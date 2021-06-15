@@ -1,0 +1,53 @@
+h2{
+    text-align: center;
+    background-color:  #603F83FF;
+    font-size: 40px;
+	color: white;
+	margin-top: 10px;
+	padding-top: 20px;
+}
+table{
+    letter-spacing: 1.2px;
+	color: rgb(53, 8, 66);
+	text-align: center;
+	width: 70%;
+	margin: auto;
+	padding: auto;
+	line-height: 48px;
+
+}
+thead{
+	font-size: 20px;
+}
+td{
+	text-align: center;
+	border-bottom: 1px solid rgb(130, 91, 139);
+}
+th{
+	height: 70px;
+	border-bottom: 1px solid rgb(130, 91, 139);
+}
+tr:hover{
+	background-color:rgb(130, 91, 139);
+	color:white;
+
+}
+button{
+	border:none;
+	background: #6c4a70;
+    transition: 1s;
+	padding-top: 10px;
+	color: #C7D3D4FF;
+	font-size: 19px;
+    padding-left: 10px;
+}
+	
+
+@media only screen and (orientation: portrait){
+	*{
+		letter-spacing: 1px;
+	}
+}
+body{
+	background-color: #C7D3D4FF;
+}

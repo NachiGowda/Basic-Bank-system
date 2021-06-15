@@ -1,0 +1,41 @@
+.container{
+    color: rgb(255, 255, 255);
+    background-color: #603F83FF;
+    text-align: center;    
+}    
+.customers{
+    width: 100%;
+    text-align: center;
+    
+
+}
+.bg{
+    width: 99%;
+    position:fixed;
+    z-index:-1;
+    opacity: 70%;
+
+}
+.slog{
+    text-align: center;
+    font-size: xx-large;
+    margin: top 2px;
+}
+button{
+    color: rgb(228, 214, 214);
+    background-color: rgb(153, 98, 185);
+    border-radius: 11px;
+    font-size: xx-large;
+    padding:30px;
+    margin-top: 50px;
+    text-align:center;
+    margin-left: 600px;
+}
+.but1{
+    padding-right: 75px;
+    
+}
+
+button:hover{
+    background-color: rgb(73, 11, 73);
+}
